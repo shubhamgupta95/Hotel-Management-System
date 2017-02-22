@@ -1,0 +1,54 @@
+body
+{
+background-color:#F0F8FF;
+}
+h1
+{
+padding-top:10px;
+font-family:Tahoma;
+color:#191970;
+font-size:36px;
+}
+ul
+{
+margin-top:0px;
+font-family:Agency fb;
+font-size:26px;
+text-align:center;
+background:#191970	;
+}
+
+li
+{
+padding-left:0px;
+padding-right:0px;
+
+display:inline;
+}
+.ab
+{
+text-decoration:none;
+padding: 0px 30px 0px 30px;	
+display:inline;
+
+text-align:center;
+color:#E6E6FA;;
+}
+
+ul:hover
+{
+
+}
+li a:hover
+{
+color:#191970;
+background-color:#E6E6FA;
+height:100%;
+}
+.i1
+{
+
+border:1px solid black;
+width:75%;
+height:400px;
+}
